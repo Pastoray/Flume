@@ -1,4 +1,4 @@
-# kvstore
+# Flume
 
 A production-grade, embedded key-value store implemented from scratch in
 Go, built around an LSM-tree (Log-Structured Merge-tree) storage engine
